@@ -1,0 +1,46 @@
+{
+    "do_false_this_value_if_you_want_delete_token": true,
+    "prefix": "/",
+    "voiceLimits": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        99
+    ],
+    "emojis": {
+        "public": "🔓",
+        "private": "🔒",
+        "mute": "🔇",
+        "unmute": "🔊",
+        "rename": "🏷️"
+    },
+    "categoryId": "984195106942881842",
+    "channelVoiceId": "980460657872875540",
+    "status_type": "LISTENING",
+    "status_bot": "Channel",
+    "category": {
+        "ID": "1058477358757183519"
+    },
+    "channelVoice": {
+        "ID": "1058477981913329796"
+    }
+}
