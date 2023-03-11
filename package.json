@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk-animation": "^2.0.2",
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.1.0",
+    "quick.replit": "^1.0.3",
+    "st.db": "^4.0.7"
+  },
+  "name": "BOT-Temp-Voice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC BY-NC-ND 4.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mr.Tom",
+  "license": "Boost Software License 1.0",
+  "description": "Bot By Shuruhatik#2443"
+}
